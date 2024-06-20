@@ -1,1 +1,1 @@
-# JOAStockP.github.io
+# JOAStock.github.io
